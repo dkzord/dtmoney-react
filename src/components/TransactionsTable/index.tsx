@@ -8,7 +8,6 @@ export function TransactionsTable(){
       .then(data => console.log(data))
   }, []);
 
-
   return (
     <Container>
       <table>
